@@ -49,7 +49,10 @@ Deutschlandticket cannot beat.
 
 ![Summary charts](outputs/summary_charts.png)
 
-The interactive map (`outputs/commute_map.html`) shows every synthetic employee coloured by
+![Commute map preview](outputs/map_preview.png)
+
+The map above is a static preview. Download `outputs/commute_map.html` and open it in a
+browser to zoom, pan, and hover over individual employees for their commute details. The interactive map shows every synthetic employee coloured by
 commute band, plus a heat layer of likely adopters. Open it in a browser.
 
 ## How to run
