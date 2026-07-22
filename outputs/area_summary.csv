@@ -1,0 +1,17 @@
+name,employees,median_pt_min,median_car_min,pct_within_45,mean_transfers,mean_index
+Hamburg-Nord,112,43.2,22.7,60.7,0.6,71.0
+Pinneberg,12,57.3,34.0,8.3,0.2,67.9
+Norderstedt,28,30.5,8.4,82.1,0.0,67.4
+Quickborn,6,51.9,22.0,16.7,0.0,62.9
+Henstedt-Ulzburg,10,47.8,26.6,30.0,0.3,62.6
+Eimsbuettel,94,52.3,29.1,7.4,0.9,62.3
+Ahrensburg,17,50.1,27.6,17.6,0.5,61.9
+Wandsbek,152,46.8,24.7,40.1,1.2,61.7
+Kaltenkirchen,8,53.0,35.5,12.5,1.5,58.4
+Hamburg-Mitte,117,55.3,34.3,9.4,1.7,51.0
+Bergedorf,38,68.2,51.2,0.0,2.0,47.3
+Wedel,6,80.2,52.5,0.0,0.5,42.2
+Reinbek,10,71.1,48.2,0.0,2.0,41.7
+Elmshorn,18,75.2,56.7,0.0,2.0,41.4
+Altona,97,63.8,37.1,3.1,2.0,37.6
+Harburg,75,75.1,54.9,0.0,2.1,37.0

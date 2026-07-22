@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+geopy
+folium
+mapclassify
+contextily
+scikit-learn
+scipy
+matplotlib
+requests
+ipykernel
