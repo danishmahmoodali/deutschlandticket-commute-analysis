@@ -2,7 +2,7 @@
 
 Data science assessment for Johnson & Johnson Medical GmbH, Norderstedt.
 
-**Question:** how attractive would public transport and the Deutschlandticket be for employees
+**Question:** How attractive would public transport and the Deutschlandticket be for employees
 commuting to Robert-Koch-Str. 1, 22851 Norderstedt?
 
 **Author:** Danish Mahmood Ali · [GitHub](https://github.com/danishmahmoodali) · [Portfolio](https://danishmahmoodali.github.io/Portfolio)
